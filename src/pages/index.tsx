@@ -20,7 +20,7 @@ function HomepageHeader() {
           <Link
             className="button button--secondary button--lg"
             to="/docs/kouhosya">
-            情報一覧を見る
+            候補者一覧を見る
           </Link>
         </div>
       </div>
