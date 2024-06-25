@@ -17,6 +17,9 @@ sidebar_position: 1
 
 過去の公約である[「7つのゼロ」についてはこちら](/docs//koike_yuriko/7_zero.md)
 
+## 支援団体
+
+
 ## リンク集
 - [選挙広報](https://r6tochijisen.metro.tokyo.lg.jp/public/files/R06tochiji_kouhou_kobetsu_05.pdf#view=FitH)
 - [ホームページ](https://www.yuriko.or.jp/)
