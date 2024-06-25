@@ -78,7 +78,7 @@ const config: Config = {
           items: [
             {
               label: '候補者一覧',
-              to: '/docs/index',
+              to: '/docs/kouhosya',
             },
           ],
         },
