@@ -13,5 +13,5 @@ sidebar_position: 5
 
 ### 資料
 
-[note: 石丸さんポスター裁判の一次資料](https://note.com/nanap_oda/n/n9c47bdd86b63)
-[note: 「踏み倒し」か「ぼったくり」か～石丸ポスター訴訟を冷静に分析してみた](https://note.com/nanap_oda/n/n81e1f01ab395)
+- [note: 石丸さんポスター裁判の一次資料](https://note.com/nanap_oda/n/n9c47bdd86b63)
+- [note: 「踏み倒し」か「ぼったくり」か～石丸ポスター訴訟を冷静に分析してみた](https://note.com/nanap_oda/n/n81e1f01ab395)
