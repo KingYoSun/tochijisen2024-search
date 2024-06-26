@@ -2,7 +2,7 @@
 sidebar_position: 5
 ---
 
-# 過去の公約: 7つのゼロ
+# 行動・実績: 7つのゼロ
 ------------------------
 
 [2016年 都知事選の選挙公報](https://www.city.tama.lg.jp/_res/projects/default_project/_page_/001/005/422/28.7.31.pdf)より、下記の公約が掲げられていた
