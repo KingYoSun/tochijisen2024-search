@@ -21,8 +21,12 @@ sidebar_position: 1
 
 過去の公約である[「7つのゼロ」についてはこちら](/docs//koike_yuriko/7_zero.md)
 
-## 支援団体
+自身が創設し、特別顧問を務める都民ファーストの会の公約[「のり弁*やめます」が削除された件についてはこちら](/docs/koike_yuriko/noriben.md)
 
+*のり弁 = 公開請求などによって公開された文章が黒く塗りつぶされており、実質的に情報が開示されていないこと
+
+## 支援団体
+[都民ファーストの会 特別顧問, 創設者](https://tomin1st.jp/greeting/)
 
 ## リンク集
 - [選挙広報](https://r6tochijisen.metro.tokyo.lg.jp/public/files/R06tochiji_kouhou_kobetsu_05.pdf#view=FitH)
