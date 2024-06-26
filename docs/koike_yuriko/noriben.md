@@ -25,7 +25,7 @@ https://tomin1st.jp/policy/1209/
 
 ### 原因？
 
-2024年都知事選に出馬している[ひまそらあかね氏](/docs/himasoraakane/index)が都のDV交付金について開示請求を行ったところ、[黒塗りの書類が提出された](https://note.com/hima_kuuhaku/n/n74adf9da5e11)(2022年12月)。
+2024年都知事選に出馬している[ひまそらあかね氏](/docs/himasoraakane)が都のDV交付金について開示請求を行ったところ、[黒塗りの書類が提出された](https://note.com/hima_kuuhaku/n/n74adf9da5e11)(2022年12月)。
 
 本件に関してひまそらあかね氏は[東京都に非開示処分取り消し訴訟を提起した](https://note.com/hima_kuuhaku/n/n1141e3c72d70)(2022年12月)。
 
