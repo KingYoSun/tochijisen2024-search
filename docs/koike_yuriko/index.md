@@ -17,13 +17,13 @@ sidebar_position: 1
 
 ## 行動・実績
 
-公式ホームページの[これまでの実績](https://www.yuriko.or.jp/result)に詳細が記載されている
-
 過去の公約である[「7つのゼロ」についてはこちら](/docs//koike_yuriko/7_zero.md)
 
 自身が創設し、特別顧問を務める都民ファーストの会の公約[「のり弁*やめます」が削除された件についてはこちら](/docs/koike_yuriko/noriben.md)
 
 *のり弁 = 公開請求などによって公開された文章が黒く塗りつぶされており、実質的に情報が開示されていないこと
+
+その他、公式ホームページの[これまでの実績](https://www.yuriko.or.jp/result)に詳細が記載されている
 
 ## 支援団体
 [都民ファーストの会 特別顧問, 創設者](https://tomin1st.jp/greeting/)
