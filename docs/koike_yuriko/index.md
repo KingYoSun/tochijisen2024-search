@@ -6,7 +6,11 @@ sidebar_position: 1
 -------
 
 ## 公約
-[東京大改革3.0](https://www.yuriko.or.jp/policy)より、
+
+### 東京大改革3.0
+
+[東京大改革3.0ホームページ](https://www.yuriko.or.jp/policy)より、
+
 - [セーフシティ](/docs/koike_yuriko/safe_city.md)
 - [ダイバーシティ](/docs/koike_yuriko/divercity.md)
 - [スマートシティ](/docs/koike_yuriko/smartcity.md)

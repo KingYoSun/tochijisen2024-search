@@ -6,6 +6,9 @@ sidebar_position: 1
 --------
 
 ## 公約
+
+### 東京を動かそう
+
 [ホームページ](https://ishimaru-shinji.com/)より、
 
 1. [政治再建](/docs/ishimaru_shinji/seiji_saiken.md)
