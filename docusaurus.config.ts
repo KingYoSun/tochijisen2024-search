@@ -3,8 +3,8 @@ import type {Config} from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
-  title: '東京都知事選2024 候補者調査',
-  tagline: '2024年の都知事選候補者の公約と対応する行動・実績の調査',
+  title: '東京都知事選2024 候補者調査・まとめ',
+  tagline: '2024年の都知事選候補者の公約と対応する行動・実績の調査とまとめ',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
