@@ -36,5 +36,5 @@ sidebar_position: 1
 
 
 ## リンク集
-- [選挙広報](https://r6tochijisen.metro.tokyo.lg.jp/public/files/R06tochiji_kouhou_kobetsu_06.pdf#view=FitH)
+- [選挙公報](https://r6tochijisen.metro.tokyo.lg.jp/public/files/R06tochiji_kouhou_kobetsu_06.pdf#view=FitH)
 - [選挙ドットコム（ホームページ扱い）](https://go2senkyo.com/seijika/193748)
