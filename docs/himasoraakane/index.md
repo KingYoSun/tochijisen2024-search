@@ -22,7 +22,7 @@ sidebar_position: 1
 ![マニフェスト漫画4](./img/manifest_4.webp)
 </div>
 
-## 実績
+## 行動・実績
 
 
 ## 支援団体

@@ -19,7 +19,7 @@ sidebar_position: 1
 - [東京全体をもっと良くする](/docs/renho/manifest_6.md)（補足: 多摩・再開発）
 - [良い政策は発展させる](/docs/renho/manifest_7.md)（行政の継続性）
 
-## 実績
+## 行動・実績
 
 
 ## 支援団体

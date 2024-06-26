@@ -15,7 +15,7 @@ sidebar_position: 1
 - [ダイバーシティ](/docs/koike_yuriko/divercity.md)
 - [スマートシティ](/docs/koike_yuriko/smartcity.md)
 
-## 実績
+## 行動・実績
 
 公式ホームページの[これまでの実績](https://www.yuriko.or.jp/result)に詳細が記載されている
 

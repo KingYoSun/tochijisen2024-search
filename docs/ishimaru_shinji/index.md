@@ -15,7 +15,7 @@ sidebar_position: 1
 2. [都市開発](/docs/ishimaru_shinji/toshi_kaihatsu.md)
 3. [産業創出](/docs/ishimaru_shinji/sangyo_sosyutsu.md)
 
-## 実績
+## 行動・実績
 
 
 ## 支援団体

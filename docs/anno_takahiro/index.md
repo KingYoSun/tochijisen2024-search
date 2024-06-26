@@ -26,7 +26,7 @@ sidebar_position: 1
 
 [政策詳細版（外部URL）](https://docs.google.com/presentation/d/1kE_W3NpvIODglaN1OrKKxmq-rNMu69Vnh7M9hhSpFwU/preview?slide=id.g273c9e3f92a_41_25)
 
-## 実績
+## 行動・実績
 
 
 ## 支援団体
