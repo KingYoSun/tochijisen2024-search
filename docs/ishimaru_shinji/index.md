@@ -59,8 +59,8 @@ sidebar_position: 1
 - ふるさと納税額の増加
   - [日本ネット経済新聞:広島・安芸高田市、9月度のふるさと納税寄付額が1億円突破 前年同月比10倍に](https://netkeizai.com/articles/detail/10171)
 
-## 支援団体
-
+## 支援者
+- 鳥羽博道（ドドールコーヒー社長）: 後援会会長
 
 ## リンク集
 - [選挙公報](https://r6tochijisen.metro.tokyo.lg.jp/public/files/R06tochiji_kouhou_kobetsu_07.pdf#view=FitH)
