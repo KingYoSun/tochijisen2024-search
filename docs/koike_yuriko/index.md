@@ -39,7 +39,9 @@ sidebar_position: 1
 - 自由民主党広報本部長: 2009年～2010年9月9日、2012年～2014年）
 
 ## 支援者
-[都民ファーストの会 特別顧問, 創設者](https://tomin1st.jp/greeting/)
+- [都民ファーストの会 特別顧問, 創設者](https://tomin1st.jp/greeting/)
+- 自民党
+  - [東京新聞: 小池百合子知事、自民党の支援方針に「大変心強い」　都知事選、連合東京が小池氏を支援](https://www.tokyo-np.co.jp/article/333666)
 
 ## リンク集
 - [選挙広報](https://r6tochijisen.metro.tokyo.lg.jp/public/files/R06tochiji_kouhou_kobetsu_05.pdf#view=FitH)
