@@ -31,9 +31,13 @@ sidebar_position: 1
 
 ## 行動・実績
 
+### 内科医 / Tokyo DD Clinic 院長 / NPO法人薬害研究センター理事長
+
+- 2013年にクスリを使わない、クスリをやめて卒業する病院Tokyo DDClinic、NPO法人薬害研究センターを設立
 
 ## 支援者
 
+- 市民がつくる政治の会（うつみ氏が代表）
 
 ## リンク集
 - [選挙公報](https://r6tochijisen.metro.tokyo.lg.jp/public/files/R06tochiji_kouhou_kobetsu_06.pdf#view=FitH)
