@@ -5,6 +5,8 @@ sidebar_position: 2
 # 公約: 政治再建
 ------------------
 
+以下、[ホームページ](https://ishimaru-shinji.com/)より引用
+
 ### 都政の見える化・わかる化
 SNS・Youtube等の活用、情報公開の徹底
 
